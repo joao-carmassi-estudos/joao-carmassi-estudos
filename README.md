@@ -24,4 +24,4 @@ Nesta organização você vai encontrar projetos feitos em:
 
 ---
 
-✨ **Curioso(a)?** Dê uma olhada nos repositórios desta organização e acompanhe como fui construindo minhas bases até chegar no que faço hoje!  
+✨ **Curioso(a)?** Dê uma olhada nos repositórios [desta organização](https://github.com/joao-carmassi-estudos) e acompanhe como fui construindo minhas bases até chegar no que faço hoje!  
