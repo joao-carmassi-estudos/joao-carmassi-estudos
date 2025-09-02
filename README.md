@@ -1,27 +1,27 @@
-# 📚 joao-carmassi-estudos  
+# 📚 joao-carmassi-studies  
 
-Bem-vindo(a) à minha organização de **projetos de estudo**! 🚀  
-Aqui você vai encontrar todo o material que usei (e ainda uso) para praticar, experimentar e aprender novas tecnologias ao longo da minha jornada como desenvolvedor.  
+Welcome to my **study projects** organization! 🚀  
+Here you’ll find all the material I’ve used (and still use) to practice, experiment, and learn new technologies throughout my journey as a developer.  
 
-## 🎯 Propósito  
-O objetivo dessa organização é **centralizar meus projetos de prática**, separados do meu perfil principal, que é focado em projetos reais, desafios profissionais e soluções para empresas.  
-Se você quiser comprovar meu histórico de estudo e dedicação, aqui é o lugar certo. ✅  
+## 🎯 Purpose  
+The goal of this organization is to **centralize my practice projects**, separated from my main profile, which focuses on real projects, professional challenges, and business solutions.  
+If you want to check my study history and dedication, this is the right place. ✅  
 
-## 🛠️ Tecnologias exploradas  
-Nesta organização você vai encontrar projetos feitos em:  
+## 🛠️ Explored Technologies  
+In this organization you’ll find projects built with:  
 
-- 🌐 **HTML, CSS, JavaScript** — meus primeiros passos no desenvolvimento web  
-- 🌀 **TypeScript** — aprofundando em tipagem e boas práticas  
-- 🖼️ **Vue.js** — framework que explorei durante um período de estudos  
-- ⚛️ **React.js** — meu foco atual, com bastante material de prática  
-- 🔗 **Next.js** — explorando SSR, SSG e o ecossistema fullstack  
-- 🧩 **Context API & Redux** — gerenciamento de estado em aplicações React  
+- 🌐 **HTML, CSS, JavaScript** — my first steps in web development  
+- 🌀 **TypeScript** — diving deeper into typing and best practices  
+- 🖼️ **Vue.js** — framework I explored during my study period  
+- ⚛️ **React.js** — my current focus, with lots of practice material  
+- 🔗 **Next.js** — exploring SSR, SSG, and the fullstack ecosystem  
+- 🧩 **Context API & Redux** — state management in React applications  
 
-## 🤝 Por que deixar público?  
-- Mostrar a evolução dos meus estudos ao longo do tempo 📈  
-- Compartilhar com outros devs que estão aprendendo 👨‍💻👩‍💻  
-- Deixar claro a diferença entre meus **projetos de prática** e meus **projetos profissionais**  
+## 🤝 Why make it public?  
+- To showcase the evolution of my studies over time 📈  
+- To share with other devs who are also learning 👨‍💻👩‍💻  
+- To clearly separate my **practice projects** from my **professional projects**  
 
 ---
 
-✨ **Curioso(a)?** Dê uma olhada nos repositórios [desta organização](https://github.com/joao-carmassi-estudos) e acompanhe como fui construindo minhas bases até chegar no que faço hoje!  
+✨ **Curious?** Check out the repositories in [this organization](https://github.com/joao-carmassi-studies) and see how I built my foundations up to what I do today!  
